@@ -7,6 +7,7 @@ app_color = "#32957C"
 app_email = "laurence@union.ph"
 app_url = "frappe.io"
 app_version = "0.0.1"
+hide_in_installer = True
 
 # Includes in <head>
 # ------------------
