@@ -1,0 +1,15 @@
+{
+ "apply_user_permissions": 1, 
+ "creation": "2014-06-24 21:37:18.090669", 
+ "docstatus": 0, 
+ "doctype": "Report", 
+ "is_standard": "Yes", 
+ "modified": "2014-06-25 17:17:17.859088", 
+ "modified_by": "Administrator", 
+ "module": "Union Erpnext Extensions", 
+ "name": "Unbilled Stocks Left Behind", 
+ "owner": "Administrator", 
+ "ref_doctype": "Sales Invoice", 
+ "report_name": "Unbilled Stocks Left Behind", 
+ "report_type": "Script Report"
+}
