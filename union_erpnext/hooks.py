@@ -67,6 +67,12 @@ hide_in_installer = True
 #	}
 # }
 
+doc_events = {
+	"Employee": {
+		"validate": "union_erpnext.union_erpnext_extensions.employee.validate_unique_designation"
+	}
+}
+
 # Scheduled Tasks
 # ---------------
 

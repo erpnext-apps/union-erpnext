@@ -1,0 +1,1 @@
+execute:frappe.db.sql("""alter table `tabEmployee` drop index designation_2""") #2014-07-10
