@@ -1,0 +1,14 @@
+[project]
+name = "union_erpnext"
+authors = [
+    { name = "Laurence", email = "laurence@union.ph" }
+]
+description = "Union Erpnext Extensions"
+dynamic = ["version"]
+dependencies = [
+    "frappe",
+]
+
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
